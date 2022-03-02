@@ -1,0 +1,9 @@
+{
+  "name": "cypress_demo",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^9.5.1"
+  }
+}
